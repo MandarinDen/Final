@@ -1,0 +1,10 @@
+@media all (max-width 1000px) {
+    div {
+    width: 60%
+     }
+    }
+    @media all (min-width 400px) {
+    div {
+    width: 100%;
+     }
+    }
